@@ -4,7 +4,7 @@
 My name is Zoë and I'm a Computer Science student specializing in Interaction Technologies.<br/>
 🌍 from the Netherlands,<br/>
 👨‍🎓 student at Hogeschool Leiden Applied Sciences,<br/>
-📚 my repos will show moslty projects from school <br>
+📚 my repos will show mostly projects from school <br>
 
 
 ## 🔧 Technologies & Tools 
