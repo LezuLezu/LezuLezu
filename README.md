@@ -20,7 +20,6 @@ My name is Zoë and I'm a Computer Science student specializing in Interaction T
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-<br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 
@@ -75,4 +74,4 @@ My name is Zoë and I'm a Computer Science student specializing in Interaction T
 
 [![LezuLezu's github stats](https://github-readme-stats.vercel.app/api?username=LezuLezu&count_private=true&show_icons=true&theme=dark&bg_color=040f0f&line_height=20&title_color=48b2db&icon_color=48b2db)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LezuLezu&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LezuLezu&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
