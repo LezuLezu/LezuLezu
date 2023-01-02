@@ -72,6 +72,9 @@ My name is Zoë and I'm a Computer Science student specializing in Interaction T
 
 ## 📈 Stats
 
-[![LezuLezu's github stats](https://github-readme-stats.vercel.app/api?username=LezuLezu&count_private=true&show_icons=true&theme=dark&bg_color=040f0f&line_height=20&title_color=48b2db&icon_color=48b2db)](https://github.com/anuraghazra/github-readme-stats)
+[![LezuLezu's github stats](https://github-readme-stats.vercel.app/api?username=LezuLezu&count_private=true&show_icons=true&theme=outrun#gh-dark-mode-only&bg_color=040f0f&line_height=20&title_color=48b2db&icon_color=48b2db)](https://github.com/anuraghazra/github-readme-stats)
+[![LezuLezu's github stats](https://github-readme-stats.vercel.app/api?username=LezuLezu&count_private=true&show_icons=true&theme=buefy#gh-light-mode-only&bg_color=040f0f&line_height=20&title_color=48b2db&icon_color=48b2db)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LezuLezu&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LezuLezu&langs_count=10&layout=compact&theme=outrun#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LezuLezu&langs_count=10&layout=compact&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
